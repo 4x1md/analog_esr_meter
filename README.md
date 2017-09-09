@@ -1,27 +1,16 @@
 # ESR Meter
 
-The schematics of this meter was published in an Italian magazine Nuova Elettronica N0. 212.
+The schematics of this meter was published in an Italian magazine Nuova Elettronica No. 212.
 
 ## Overview
+
+I found the schematics of this meter more than five years ago on [Talino Tribuzio's IZ7ATH site](http://www.qsl.net/iz7ath/web/02_brew/15_lab/06_esr/index.htm) when I was looking for a simple ESR meter circuit.
 
 ## Project goals
 
 ## Parts
 
-## Mechanics
-
-## PCB
-
-## Assembled device
-
-## Alignment
-
-
-
-The project came from an italian magazine (Nuova Elettronica N212)
-from: http://www.qsl.net/iz7ath/web/02_brew/15_lab/06_esr/index.htm
-iz7ath, Talino Tribuzio
-
+```
 R1=1K5
 R2,R3,R4,R5=10K
 R6=68K
@@ -47,7 +36,15 @@ TR1,TR3=BC547
 TR2=BC557
 IC1=TL084
 S1=SWITCH
+```
 
+## Mechanics
+
+## PCB
+
+## Assembled device
+
+## Alignment
 
 ## Links
 * http://fillwithgoodthings.blogspot.co.il/2013/05/esr-meter-schematic.html
@@ -57,9 +54,4 @@ S1=SWITCH
 * http://ludens.cl/Electron/esr/esr.html
 * http://electronics-diy.com/electronic_schematic.php?id=949
 
-
-
-
-
-
-
+73 de 4X1MD
