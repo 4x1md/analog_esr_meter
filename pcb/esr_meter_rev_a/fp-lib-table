@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ESR_Meter_Footprints)(type KiCad)(uri ${KIPRJMOD}/esr_meter_footprints.pretty)(options "")(descr ""))
+)
