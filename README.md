@@ -64,7 +64,7 @@ A ready available 118x78x33mm plastic box which was purchased on AliExpress. The
 ## Alignment
 
 ## Links
-* http://fillwithgoodthings.blogspot.co.il/2013/05/esr-meter-schematic.html
+* http://fillwithgoodthings.blogspot.com/2013/05/esr-meter-schematic.html
 * http://kripton2035.free.fr/analog%20esr/esr-poptronix.html
 * http://electronics-diy.com/electronic_schematic.php?id=950
 * http://www.geocities.jp/shoranosekai/ESR_Tester_Schematic.jpg
