@@ -45,7 +45,7 @@ IC1 = TL084
 
 ## Schematic
 
-![ESR meter circuit rev. A](https://raw.githubusercontent.com/4x1md/analog_esr_meter/master/images/schematic_rev_a.png)
+![ESR meter circuit rev. A](https://raw.githubusercontent.com/4x1md/analog_esr_meter/master/images/schematic.png)
 
 ## Mechanics
 
