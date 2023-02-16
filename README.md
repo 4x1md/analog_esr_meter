@@ -71,4 +71,10 @@ A ready available 118x78x33mm plastic box which was purchased on AliExpress. The
 * http://ludens.cl/Electron/esr/esr.html
 * http://electronics-diy.com/electronic_schematic.php?id=949
 
+## How To Say Thanks
+
+If you like this project, or found here some useful information and want to say thanks, or encourage me to do more, you can buy me a coffee!
+
+<a href="https://www.buymeacoffee.com/4x1md" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 73 de 4X1MD
